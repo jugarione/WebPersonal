@@ -1,0 +1,3 @@
+# Ignorar llaves SSH de despliegue
+github-deploy-key
+github-deploy-key.pub
